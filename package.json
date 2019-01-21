@@ -1,0 +1,11 @@
+{
+  "name": "example-serverless-plugin",
+  "version": "1.0.0",
+  "description": "just sample of a simple serverless plugin with post deploy hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "barak drechsler",
+  "license": "MIT"
+}
