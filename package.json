@@ -1,6 +1,6 @@
 {
   "name": "example-serverless-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "just sample of a simple serverless plugin with post deploy hook",
   "main": "index.js",
   "scripts": {
