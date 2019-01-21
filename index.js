@@ -6,7 +6,7 @@ class ServerlessPlugin {
     this.options = options;
 
     this.hooks = {
-      "after:deploy": this.afterDeploy.bind(this)
+      "aws:deploy:deploy:updateStack": this.afterDeploy.bind(this)
     };
   }
 
